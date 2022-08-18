@@ -51,8 +51,8 @@
     <a href="https://www.linkedin.com/in/brajkishor-singh-tomar-719941133/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brajkishor-singh-tomar-719941133/" />
     </a>
-    <a href="https://gaurav-jais-portfolio.netlify.app">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://gaurav-jais-portfolio.netlify.app" />
+    <a href="https://brajkishor-tomar-portfolio.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://brajkishor-tomar-portfolio.netlify.app/" />
     </a>
     <a title="b.ktomar98@gmail.com" href="mailto:b.ktomar98@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="b.ktomar98@gmail.com" />
