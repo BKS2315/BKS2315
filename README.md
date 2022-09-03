@@ -70,7 +70,7 @@
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BKS2315&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="BKS2315" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKS2315&layout=compact&exclude_repo=Sugar-Cosmetics-Clone,=Shell&border_radius=0&theme=dark" alt="BKS2315" height="139"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKS2315&layout=compact&exclude_repo=Sugar-Cosmetics-Clone,masai-course/brajkishor_fw17_1073,PracticeDSA=Shell&border_radius=0&theme=dark" alt="BKS2315" height="139"/>
 </p>
 <br>
   
