@@ -92,6 +92,12 @@
 
 
 <p>
+
+<a href="https://github.com/vinaykumar2n/succinct-wrench-1095">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinaykumar2n&repo=succinct-wrench-1095&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
+    </a>
+
+
     <a href="https://github.com/KaustubhBadve/Beutybebo-Cloned">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhBadve&repo=Beutybebo-Cloned&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
     </a>
