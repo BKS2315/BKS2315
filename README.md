@@ -99,12 +99,9 @@
     </a>
 
 
-    <a href="https://github.com/KaustubhBadve/Beutybebo-Cloned">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhBadve&repo=Beutybebo-Cloned&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
-    </a>
    
-   <a href="https://github.com/BKS2315/Sugar-Cosmetics-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BKS2315&repo=Sugar-Cosmetics-Clone&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
+   <a href="https://github.com/KaustubhBadve/Beutybebo-Cloned">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhBadve&repo=Beutybebo-Cloned&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
     </a>
    
 </p>
